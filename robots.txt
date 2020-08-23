@@ -1,0 +1,4 @@
+User-agent: *
+Dissallow: /
+Dissallow: /HijaIyh_App/*
+Dissallow: /HijaIyh_App/
